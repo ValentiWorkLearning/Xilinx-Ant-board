@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name DevBoard_Xilinx)(type KiCad)(uri D:/DevBoard_Xilinx)(options "")(descr ""))
+  (lib (name cpldxl)(type KiCad)(uri D:/DevBoard_Xilinx/cpldxl)(options "")(descr ""))
+)
